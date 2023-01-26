@@ -1,0 +1,15 @@
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\bin\Debug\net6.0\ISP.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\bin\Debug\net6.0\ISP.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\bin\Debug\net6.0\ISP.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\bin\Debug\net6.0\ISP.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\bin\Debug\net6.0\ISP.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\refint\ISP.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ISP.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\ISP\obj\Debug\net6.0\ref\ISP.dll

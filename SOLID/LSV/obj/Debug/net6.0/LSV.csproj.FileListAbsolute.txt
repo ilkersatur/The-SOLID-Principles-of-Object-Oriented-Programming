@@ -1,0 +1,15 @@
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\bin\Debug\net6.0\LSV.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\bin\Debug\net6.0\LSV.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\bin\Debug\net6.0\LSV.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\bin\Debug\net6.0\LSV.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\bin\Debug\net6.0\LSV.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\refint\LSV.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\LSV.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\LSV\obj\Debug\net6.0\ref\LSV.dll
