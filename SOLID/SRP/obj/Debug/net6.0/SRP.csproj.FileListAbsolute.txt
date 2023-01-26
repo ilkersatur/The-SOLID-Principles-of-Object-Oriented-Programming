@@ -1,0 +1,15 @@
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\bin\Debug\net6.0\SRP.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\bin\Debug\net6.0\SRP.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\bin\Debug\net6.0\SRP.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\bin\Debug\net6.0\SRP.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\bin\Debug\net6.0\SRP.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\refint\SRP.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\SRP.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\SRP\obj\Debug\net6.0\ref\SRP.dll

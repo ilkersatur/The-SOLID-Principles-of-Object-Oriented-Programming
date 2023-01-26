@@ -1,0 +1,15 @@
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\bin\Debug\net6.0\OCP-II.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\bin\Debug\net6.0\OCP-II.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\bin\Debug\net6.0\OCP-II.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\bin\Debug\net6.0\OCP-II.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\bin\Debug\net6.0\OCP-II.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\refint\OCP-II.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\OCP-II.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\OCAK\24.01.2023\SOLID\OCP-II\obj\Debug\net6.0\ref\OCP-II.dll
